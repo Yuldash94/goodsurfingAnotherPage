@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goodsurfingAnotherPage/static/css/main.7ff73ffa.css",
+    "main.js": "/goodsurfingAnotherPage/static/js/main.fcaf34df.js",
+    "index.html": "/goodsurfingAnotherPage/index.html",
+    "main.7ff73ffa.css.map": "/goodsurfingAnotherPage/static/css/main.7ff73ffa.css.map",
+    "main.fcaf34df.js.map": "/goodsurfingAnotherPage/static/js/main.fcaf34df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ff73ffa.css",
+    "static/js/main.fcaf34df.js"
+  ]
+}
