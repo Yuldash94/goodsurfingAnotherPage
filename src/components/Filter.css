@@ -1,0 +1,46 @@
+.filter {
+    width: 95%;
+    min-height: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    border-top: 1px solid #DFE6EB;
+}
+.filter * {
+    margin: 0;
+}
+.filter_calendar {
+    display: flex;
+    align-items: center;
+}
+.calendar {
+    width: 180px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid #CBD3D8;
+    font-weight: 400;
+    font-size: 15px;
+    color: #B0B0B0;
+    cursor: pointer;
+}
+.filter_els {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.filter_el {
+    height: 40px;
+    min-width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #CBD3D8;
+    border-radius: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+}
